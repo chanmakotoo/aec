@@ -1,0 +1,6 @@
+[user]
+	email = $email
+	name  = $name
+
+[ghq]
+	root = ~/Repository

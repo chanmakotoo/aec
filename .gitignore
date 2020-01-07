@@ -1,0 +1,10 @@
+/*
+!/.gitconfig
+!/.gitignore
+!/README.md
+!/anyenv
+!/dotfiles
+dotfiles/gitconfig/.gitconfig
+!/homebrew
+!/init.sh
+!/setup.sh
